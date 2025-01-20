@@ -1,6 +1,8 @@
 # CHATBOT
 ## What is a Agent
-An AI agent refers to a system or program that is designed to autonomously perform tasks or make decisions based on input from its environment, typically using artificial intelligence (AI) techniques such as machine learning, natural language processing, and problem-solving algorithms
+An AI agent refers to a system or program that is designed to autonomously perform tasks or make decisions based on input from its environment, typically using artificial intelligence (AI) techniques such as machine learning, natural language processing, and problem-solving algorithms.
+
+<img src = "image.png" alt = "Workcase example"/>
 
 ## Why Personalized Agent
 ### 1. Improved User Experience: 
