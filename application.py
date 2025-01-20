@@ -6,8 +6,8 @@ import os
 from langgraph.prebuilt import create_react_agent 
 from langchain_groq import ChatGroq 
 
-groq_api_key = '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'  # Groq API key
-os.environ["TAVILY_API_KEY"] = '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'  # Set Tavily API key
+groq_api_key = 'xxxxxxxxxxxxxxxxx'  # Groq API key
+os.environ["TAVILY_API_KEY"] = 'xxxxxxxxxxxxxxxxxx'  # Set Tavily API key
 
 MODELS = [
     "llama3-70b-8192",  # Model 1: Llama 3 with specific configuration
