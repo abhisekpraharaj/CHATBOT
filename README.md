@@ -11,3 +11,20 @@ A personalized AI agent adapts its responses based on the unique needs, preferen
 Unlike generic agents, personalized agents can remember past interactions and user-specific details, which helps in providing more accurate and effective solutions.
 ### 4. Efficiency in Problem Solving: 
 In specific domains, like customer service or research, personalized agents can be equipped with domain-specific knowledge to provide quicker, more relevant answers.
+
+## Why Use Groq API
+### Accelerating deep learning workloads by utilizing GROQ hardware.
+### Simplifying deployment and integration of AI models at scale.
+### Improving real-time performance with low latency and high throughput.
+### Reducing power consumption while maintaining high inference speeds.
+
+## Why Use Tavily API
+### Real-time indexing ensures the latest data is always available.
+### High-speed performance for fast search results, even with large datasets.
+### Scalable to handle increased data volumes and traffic.
+### Customizable search features and advanced filtering for personalized search experiences.
+### NLP capabilities for understanding natural language queries.
+### Easy to integrate and cost-effective to deploy.
+
+## References
+### https://github.com/balupeddireddy08/End-to-End-AI-Chatbot-with-Langraph-FastAPI-and-Streamlit-UI/tree/main
