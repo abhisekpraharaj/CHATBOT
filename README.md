@@ -28,5 +28,9 @@ In specific domains, like customer service or research, personalized agents can 
 ### NLP capabilities for understanding natural language queries.
 ### Easy to integrate and cost-effective to deploy.
 
+## How To Run This:
+  ### *Run the server:-uvicorn application:application --host 127.0.0.1 --port 8000   ||application can be replaced if you change the application.py name
+  ### *Run the user-interface.py:streamlit run interface.py ||interface.py can be replaced if you change the interface.py name
+
 ## References
 ### https://github.com/balupeddireddy08/End-to-End-AI-Chatbot-with-Langraph-FastAPI-and-Streamlit-UI/tree/main
